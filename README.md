@@ -17,3 +17,5 @@ Algorithm include areas of:
 4. Add Visulization & Instruction for each of the algorithm/models
 5. Modularization of each Algorithm
 6. PAcking into a distributable packages for distribution
+
+Developing by Data Science Student from DSC80
