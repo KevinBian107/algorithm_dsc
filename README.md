@@ -1,5 +1,11 @@
 # algorithm_dsc
 This repository is for demnonstrating fundamental algorithms that is essential to practices in data science and machine learning
+Algorithm include areas of:
+1. Fundamental Search ALgorithm (UCSD DSC20, DSC30, DSC40B)
+2. Graph Search Algorithm (UCSD DSC40B)
+3. Language Models (UCSD DSC80)
+4. Learning Algorithms?
+5. ...
 
 # Todo:
 1. Create branches for development
