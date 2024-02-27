@@ -7,9 +7,13 @@ Algorithm include areas of:
 4. Learning Algorithms?
 5. ...
 
+***Demonstrating DS skills learned from multiple DSC classes***
+
 # Todo:
 1. Create branches for development
 2. Add Models:
    - Add Ngram Langauge Model Algorithm
    - Add Kruska's Algorithm, Minimum Spanning Trees, and other Graph Search Algorithm
 4. Add Visulization & Instruction for each of the algorithm/models
+5. Modularization of each Algorithm
+6. PAcking into a distributable packages for distribution
